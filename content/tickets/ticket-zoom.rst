@@ -415,6 +415,9 @@ This widget displays the details of the article. The widget has an own menu.
 
 The menu is extensible and menu items can be grouped into drop-down lists.
 
+Colors
+   There are three possible colors used to mark the type of article. Red, is an article not visible for the customer user. Yellow is a system message. White articles are visible for the customer user.
+
 Mark or Unmark
    Use this menu item to mark article as important or to remove the important flag from the article. Important articles have a red information flag in the *Article Overview* widget.
 
